@@ -4,7 +4,7 @@ This repository contains a **custom fact-checking pipeline** used to *ground cit
 
 > **Attribution**  
 > The **core pipeline logic** (including the evidence-localisation design and the PDF→Markdown conversion strategy with page markers) is attributed to **Prof. Heiko Neuhaus**.  
-> Any adaptations in this repo (e.g., evaluation scripts, LLM-ensemble judge baseline, convenience wrappers, formatting changes) were added by the student for thesis evaluation and reproducibility.
+> Any adaptations in this repo (e.g., evaluation scripts, LLM-ensemble judge baseline, convenience wrappers, formatting changes) were added by Krati Pandya for thesis evaluation and reproducibility.
 
 ---
 
