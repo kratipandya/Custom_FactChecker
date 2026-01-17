@@ -1,0 +1,2 @@
+models,k,precision,recall,f1,accuracy,roc_auc,threshold,n
+deepseek/deepseek-chat-v3-0324 | xiaomi/mimo-v2-flash:free | tngtech/deepseek-r1t2-chimera:free,3,0.8625,0.6433566433566433,0.7369826435246996,0.6247619047619047,0.594587703962704,0.05,525
